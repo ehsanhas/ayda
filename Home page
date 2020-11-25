@@ -1,0 +1,1508 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>AYDA - Home</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+		
+		<link id="wsite-base-style" rel="stylesheet" type="text/css" href="http://cdn2.editmysite.com/css/sites.css?buildTime=1234" />
+<link rel="stylesheet" type="text/css" href="http://cdn2.editmysite.com/css/old/fancybox.css?1234" />
+<link rel="stylesheet" type="text/css" href="http://cdn2.editmysite.com/css/social-icons.css?buildtime=1234" media="screen,projection" />
+<link rel="stylesheet" type="text/css" href="files/main_style.css?1606305014" title="wsite-theme-css" />
+<link href='http://fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Quicksand:400,300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<style type='text/css'>
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Roboto" !important;letter-spacing: 0px !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Roboto" !important;font-weight:700 !important;text-transform:  none !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {color:#3f3f3f !important;}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {font-family:"Quicksand" !important;}
+.wsite-footer h2 a, .wsite-footer .paragraph a, .wsite-footer blockquote a {color:#515151 !important;}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-family:"Oxygen" !important;font-weight:700 !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+@media screen and (min-width: 767px) {.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-size:18px !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-size:60px !important;line-height:60px !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-size:80px !important;line-height:75px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+}</style>
+<style>
+.wsite-background {background-image: url("/uploads/1/1/8/1/118144638/background-images/91018499.jpeg") !important;background-repeat: no-repeat !important;background-position: 50% 50% !important;background-size: 100% !important;background-color: transparent !important;background: inherit;}
+body.wsite-background {background-attachment: fixed !important;}.wsite-background.wsite-custom-background{ background-size: cover !important}
+</style>
+		<script>
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+</script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
+
+<script type="text/javascript" src="http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234&"></script>
+<script src="http://cdn2.editmysite.com/js/site/main.js?buildTime=1234"></script><script type="text/javascript">
+		function initCustomerAccountsModels() {
+					(function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/CustomerAccounts\/","actions":{"CustomerAccounts":[{"name":"login","len":2,"multiple":false,"standalone":false},{"name":"logout","len":0,"multiple":false,"standalone":false},{"name":"getSessionDetails","len":0,"multiple":false,"standalone":false},{"name":"getAccountDetails","len":0,"multiple":false,"standalone":false},{"name":"getOrders","len":0,"multiple":false,"standalone":false},{"name":"register","len":4,"multiple":false,"standalone":false},{"name":"emailExists","len":1,"multiple":false,"standalone":false},{"name":"passwordReset","len":1,"multiple":false,"standalone":false},{"name":"passwordUpdate","len":3,"multiple":false,"standalone":false},{"name":"validateSession","len":1,"multiple":false,"standalone":false}]},"namespace":"_W.CustomerAccounts.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":"_W.CustomerAccounts.BackboneModelData","collection_namespace":"_W.CustomerAccounts.BackboneCollectionData","bootstrap_namespace":"_W.CustomerAccounts.BackboneBootstrap","models":{"CustomerAccounts":{"_class":"CustomerAccounts.Model.CustomerAccounts","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null}},"collections":{"CustomerAccounts":{"_class":"CustomerAccounts.Collection.CustomerAccounts"}},"bootstrap":[]});
+})();
+		}
+		if(document.createEvent && document.addEventListener) {
+			var initEvt = document.createEvent('Event');
+			initEvt.initEvent('customerAccountsModelsInitialized', true, false);
+			document.dispatchEvent(initEvt);
+		} else if(document.documentElement.initCustomerAccountsModels === 0){
+			document.documentElement.initCustomerAccountsModels++
+		}
+		</script>
+		<script type="text/javascript"> _W = _W || {}; _W.securePrefix='UNSET'; </script><script>_W = _W || {};
+			_W.customerLocale = "en_US";
+			_W.storeName = null;
+			_W.isCheckoutReskin = false;
+			_W.storeCountry = "AU";
+			_W.storeCurrency = "AUD";
+			_W.storeEuPrivacyPolicyUrl = "";
+			com_currentSite = "336708625121003755";
+			com_userID = "118144638";</script><script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+<script type="text/javascript" src="http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234&"></script><script> _W.themePlugins = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
+	var IS_ARCHIVE = 1;
+	
+	function initFlyouts(){
+		initPublishedFlyoutMenus(
+			[{"id":"550297496335686070","title":"Home","url":"index.html","target":"","nav_menu":false,"nonclickable":false},{"id":"359851178887252643","title":"About","url":"about.html","target":"","nav_menu":false,"nonclickable":false},{"id":"172844151261013386","title":"Contact","url":"contact.html","target":"","nav_menu":false,"nonclickable":false},{"id":"762288370870940258","title":"Blog","url":"blog.html","target":"","nav_menu":false,"nonclickable":false},{"id":"490109991218195900","title":"Source Code","url":"source-code.html","target":"","nav_menu":false,"nonclickable":false}],
+			"550297496335686070",
+			'',
+			'active',
+			false,
+			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{}
+		)
+	}
+//-->
+</script>
+		
+		<script src="https://www.getgobot.com/app/connect/weebly/336708625121003755/118144638/gobot.js"></script>
+	</head>
+	<body class="header-page page-has-banner  wsite-theme-light  wsite-page-index header-overlay-on header-animation-on "><div class="wrapper">
+  	<div class="banner-wrap">
+      <div class="wsite-elements wsite-not-footer wsite-header-elements">
+	<div class="wsite-section-wrap">
+	<div  class="wsite-section wsite-header-section wsite-section-bg-image" style="height: 680px;background-image: url(&quot;/uploads/1/1/8/1/118144638/background-images/842091290.jpg&quot;) ;background-repeat: no-repeat ;background-position: 50% 50% ;background-size: 100% ;background-color: transparent ;background-size: cover;" >
+		<div class="wsite-section-content">
+			
+          <div class="container">
+            <div class="banner">
+				<div class="wsite-section-elements">
+					<h2 class="wsite-content-title" style="text-align:left;">Ayda</h2>
+
+<div class="paragraph" style="text-align:left;"></div>
+				</div>
+			</div>
+          </div>
+      
+		</div>
+		<div class=""></div>
+	</div>
+</div>
+
+</div>
+
+    </div><!-- end banner-wrap -->
+
+    <div class="dusk-header">
+      <div class="nav-wrap">
+        <div class="container">
+          <div class="logo"><span class="wsite-logo">
+
+	<a href="">
+	
+	<span id="wsite-title">AYDA</span>
+	
+	</a>
+
+</span></div>
+          <div class="nav desktop-nav"><ul class="wsite-menu-default">
+		<li id="active" class="wsite-menu-item-wrap">
+			<a
+						href="index.html"
+				class="wsite-menu-item"
+				>
+				Home
+			</a>
+			
+		</li>
+		<li id="pg359851178887252643" class="wsite-menu-item-wrap">
+			<a
+						href="about.html"
+				class="wsite-menu-item"
+				>
+				About
+			</a>
+			
+		</li>
+		<li id="pg172844151261013386" class="wsite-menu-item-wrap">
+			<a
+						href="contact.html"
+				class="wsite-menu-item"
+				>
+				Contact
+			</a>
+			
+		</li>
+		<li id="pg762288370870940258" class="wsite-menu-item-wrap">
+			<a
+						href="blog.html"
+				class="wsite-menu-item"
+				>
+				Blog
+			</a>
+			
+		</li>
+		<li id="pg490109991218195900" class="wsite-menu-item-wrap">
+			<a
+						href="source-code.html"
+				class="wsite-menu-item"
+				>
+				Source Code
+			</a>
+			
+		</li>
+</ul>
+</div>
+          <a class="hamburger" aria-label="Menu" href="#"><span></span></a>
+        </div><!-- end container -->
+      </div>
+    </div><!-- end header -->
+
+    <div class="main-wrap">
+      <div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-image wsite-section-effect-reveal wsite-background-1 wsite-custom-background" style="background-image: url(&quot;/uploads/1/1/8/1/118144638/background-images/651829801.jpg&quot;) ;background-repeat: no-repeat ;background-position: 8.33% 0.00% ;background-size: 100% ;background-color: transparent ;background-size: cover;" >
+		<div class="wsite-section-content">
+        <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div class="paragraph">WHAT IS AYDA?</div>
+
+<div class="wsite-spacer" style="height:23px;"></div>
+
+<div class="paragraph">We are a duo who have experience in computers/ internet/programming and designing. Currently we are offering to help small businesses grow with creating and designing a website for them.</div>
+
+<div style="text-align:left;"><div style="height: 50px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-normal" href="about.html" >
+<span class="wsite-button-inner">Learn More</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:right">
+<a>
+<img src="uploads/1/1/8/1/118144638/por-que-necesitas-una-buena-plantilla-para-tu-web_orig.gif" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div id="262729206239250549"><div><style type="text/css">
+	#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 .paragraph {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion {
+  padding: 20px 0;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item {
+  width: 100%;
+  display: block;
+  position: relative;
+  margin-bottom: 0;
+  background-color: #FFFFFF;
+  height: 100%;
+  box-sizing: border-box;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item > .accordion__title {
+  width: 100%;
+  background-color: #E0E0E0;
+  padding: 10px 20px;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  transition: 250ms ease;
+  opacity: 0.75;
+  cursor: pointer;
+  min-height: 45px;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item > .accordion__title span {
+  opacity: 0.5;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item > .accordion__title::after {
+  content: '+';
+  position: absolute;
+  float: right;
+  top: 10px;
+  right: 20px;
+  font-size: 1.25em;
+  opacity: 0.5;
+  color: #919191;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item > .accordion__content {
+  display: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: 500ms ease;
+  background-color: #a9e4f8;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item.active > .accordion__title {
+  background-color: #a9e4f8;
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item.active > .accordion__title span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item.active > .accordion__title::after {
+  content: '\2013';
+  color: #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple .accordion__item.active > .accordion__content {
+  display: block;
+  max-height: 1000px;
+  transition: 500ms ease;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item {
+  width: 100%;
+  display: block;
+  position: relative;
+  margin-bottom: 0;
+  background-color: #FFFFFF;
+  height: 100%;
+  box-sizing: border-box;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item > .accordion__title {
+  width: 100%;
+  background-color: #E0E0E0;
+  padding: 10px 20px;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  transition: 250ms ease;
+  opacity: 0.75;
+  cursor: pointer;
+  min-height: 45px;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item > .accordion__title span {
+  opacity: 0.5;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item > .accordion__title::after {
+  content: '+';
+  position: absolute;
+  float: right;
+  top: 10px;
+  right: 20px;
+  font-size: 1.25em;
+  opacity: 0.5;
+  color: #919191;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item > .accordion__content {
+  display: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: 500ms ease;
+  background-color: #a9e4f8;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item.active > .accordion__title {
+  background-color: #a9e4f8;
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item.active > .accordion__title span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item.active > .accordion__title::after {
+  content: '\2013';
+  color: #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material .accordion__item.active > .accordion__content {
+  display: block;
+  max-height: 1000px;
+  transition: 500ms ease;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material > .accordion__item {
+  margin-bottom: 1px;
+  box-shadow: none;
+  transition: 500ms ease;
+  z-index: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material > .accordion__item.active {
+  box-shadow: 0 0 20px rgba(0,0,0,0.15);
+  z-index: 3;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item {
+  width: 100%;
+  display: block;
+  position: relative;
+  margin-bottom: 0;
+  background-color: #FFFFFF;
+  height: 100%;
+  box-sizing: border-box;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item > .accordion__title {
+  width: 100%;
+  background-color: #E0E0E0;
+  padding: 10px 20px;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  transition: 250ms ease;
+  opacity: 0.75;
+  cursor: pointer;
+  min-height: 45px;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item > .accordion__title span {
+  opacity: 0.5;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item > .accordion__title::after {
+  content: '+';
+  position: absolute;
+  float: right;
+  top: 10px;
+  right: 20px;
+  font-size: 1.25em;
+  opacity: 0.5;
+  color: #919191;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item > .accordion__content {
+  display: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: 500ms ease;
+  background-color: #a9e4f8;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item.active > .accordion__title {
+  background-color: #a9e4f8;
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item.active > .accordion__title span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item.active > .accordion__title::after {
+  content: '\2013';
+  color: #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box .accordion__item.active > .accordion__content {
+  display: block;
+  max-height: 1000px;
+  transition: 500ms ease;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box > .accordion__item {
+  transition: 500ms ease;
+  border: 1px solid #919191;
+  z-index: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box > .accordion__item.active {
+  z-index: 3;
+  border: 1px solid #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item {
+  width: 100%;
+  display: block;
+  position: relative;
+  margin-bottom: 0;
+  background-color: #FFFFFF;
+  height: 100%;
+  box-sizing: border-box;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item > .accordion__title {
+  width: 100%;
+  background-color: #E0E0E0;
+  padding: 10px 20px;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  transition: 250ms ease;
+  opacity: 0.75;
+  cursor: pointer;
+  min-height: 45px;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item > .accordion__title span {
+  opacity: 0.5;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item > .accordion__title::after {
+  content: '+';
+  position: absolute;
+  float: right;
+  top: 10px;
+  right: 20px;
+  font-size: 1.25em;
+  opacity: 0.5;
+  color: #919191;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item > .accordion__content {
+  display: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: 500ms ease;
+  background-color: #a9e4f8;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item.active > .accordion__title {
+  background-color: #a9e4f8;
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item.active > .accordion__title span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item.active > .accordion__title::after {
+  content: '\2013';
+  color: #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item.active > .accordion__content {
+  display: block;
+  max-height: 1000px;
+  transition: 500ms ease;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item > .accordion__title:hover {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--simple.no-touch .accordion__item > .accordion__title:hover span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item {
+  width: 100%;
+  display: block;
+  position: relative;
+  margin-bottom: 0;
+  background-color: #FFFFFF;
+  height: 100%;
+  box-sizing: border-box;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item > .accordion__title {
+  width: 100%;
+  background-color: #E0E0E0;
+  padding: 10px 20px;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  transition: 250ms ease;
+  opacity: 0.75;
+  cursor: pointer;
+  min-height: 45px;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item > .accordion__title span {
+  opacity: 0.5;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item > .accordion__title::after {
+  content: '+';
+  position: absolute;
+  float: right;
+  top: 10px;
+  right: 20px;
+  font-size: 1.25em;
+  opacity: 0.5;
+  color: #919191;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item > .accordion__content {
+  display: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: 500ms ease;
+  background-color: #a9e4f8;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item.active > .accordion__title {
+  background-color: #a9e4f8;
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item.active > .accordion__title span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item.active > .accordion__title::after {
+  content: '\2013';
+  color: #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item.active > .accordion__content {
+  display: block;
+  max-height: 1000px;
+  transition: 500ms ease;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item > .accordion__title:hover {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item > .accordion__title:hover span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch > .accordion__item {
+  margin-bottom: 1px;
+  box-shadow: none;
+  transition: 500ms ease;
+  z-index: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch > .accordion__item.active {
+  box-shadow: 0 0 20px rgba(0,0,0,0.15);
+  z-index: 3;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--material.no-touch .accordion__item:hover {
+  box-shadow: ;
+  z-index: 3;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item {
+  width: 100%;
+  display: block;
+  position: relative;
+  margin-bottom: 0;
+  background-color: #FFFFFF;
+  height: 100%;
+  box-sizing: border-box;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item > .accordion__title {
+  width: 100%;
+  background-color: #E0E0E0;
+  padding: 10px 20px;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  transition: 250ms ease;
+  opacity: 0.75;
+  cursor: pointer;
+  min-height: 45px;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item > .accordion__title span {
+  opacity: 0.5;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item > .accordion__title::after {
+  content: '+';
+  position: absolute;
+  float: right;
+  top: 10px;
+  right: 20px;
+  font-size: 1.25em;
+  opacity: 0.5;
+  color: #919191;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item > .accordion__content {
+  display: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: 500ms ease;
+  background-color: #a9e4f8;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item.active > .accordion__title {
+  background-color: #a9e4f8;
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item.active > .accordion__title span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item.active > .accordion__title::after {
+  content: '\2013';
+  color: #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item.active > .accordion__content {
+  display: block;
+  max-height: 1000px;
+  transition: 500ms ease;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item > .accordion__title:hover {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item > .accordion__title:hover span {
+  opacity: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch > .accordion__item {
+  transition: 500ms ease;
+  border: 1px solid #919191;
+  z-index: 1;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch > .accordion__item.active {
+  z-index: 3;
+  border: 1px solid #76939d;
+}
+#element-ee158085-3d8a-4ec3-af99-a972c6f8e531 > .accordion--box.no-touch .accordion__item:hover {
+  z-index: 3;
+}
+
+</style><div id="element-ee158085-3d8a-4ec3-af99-a972c6f8e531" data-platform-element-id="915890017822203553-1.3.9" class="platform-element-contents">
+	<div class="accordion accordion--simple no-touch">
+        <div class="accordion__item" data-item="0">
+            <div class="accordion__title">
+                <span><div class="paragraph">#1</div><span>
+            </div>
+            <div class="accordion__content">
+                <div style="padding: 10px 20px 20px;">
+                    <div style="width: auto"><div></div><div class="paragraph"><span>Today, more and more people are using the Internet to search for their products or services. By making a website, your small business will become credible. it would give your business a polished image that inspires much more faith by getting it professionally redesigned. This is particularly helpful for home-based firms because the goods or services are not advertised in the shoppe.</span></div></div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion__item" data-item="1">
+            <div class="accordion__title">
+                <span><div class="paragraph"><span>&#8203;#2</span></div><span>
+            </div>
+            <div class="accordion__content">
+                <div style="padding: 10px 20px 20px;">
+                    <div style="width: auto"><div></div><div class="paragraph"><span>&#8203;Think of your website as your brochure or catalogue online. The posting of information about your goods and services on your website is much clearer and faster than the printing content, so you're able to let your customers know about new products, future activities, exclusive sales or new services. Your website will provide updates and news, in comparison to printing advertisements which quickly become outdated.</span></div></div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion__item" data-item="2">
+            <div class="accordion__title">
+                <span><div class="paragraph">#3</div><span>
+            </div>
+            <div class="accordion__content">
+                <div style="padding: 10px 20px 20px;">
+                    <div style="width: auto"><div></div><div class="paragraph"><span>&#8203;A website is open to both your current and prospective clients 24/7/365, providing them with the ease of checking your goods and services while your shoppe or office is closed. For today's busy lifestyles, this is a fantastic marketing tool when you make a buying decision.</span></div></div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion__item" data-item="3">
+            <div class="accordion__title">
+                <span><div class="paragraph">#4</div><span>
+            </div>
+            <div class="accordion__content">
+                <div style="padding: 10px 20px 20px;">
+                    <div style="width: auto"><div></div><div class="paragraph"><span>Regardless of which kind of business you are a website is an outstanding showcase of your work. You may show what makes your business unique by include your portfolio or picture gallery, as well as information about your work.</span></div></div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion__item" data-item="4">
+            <div class="accordion__title">
+                <span><div class="paragraph">#5</div><span>
+            </div>
+            <div class="accordion__content">
+                <div style="padding: 10px 20px 20px;">
+                    <div style="width: auto"><div></div><div class="paragraph"><span>Maybe you're marketing environmentally friendly products and would like to share ideas about how to recycle them, or maybe you're an accountant and would like to give suggestions to your clients on how to optimise their financial statements. By including a FAQ tab, posting posts or uploading newsletters to answer all the customers' questions, you can keep them up to date. What better way to offer value-added services than by posting content on your website.</span></div></div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion__item" data-item="5">
+            <div class="accordion__title">
+                <span><div class="paragraph">#6</div><span>
+            </div>
+            <div class="accordion__content">
+                <div style="padding: 10px 20px 20px;">
+                    <div style="width: auto"><div></div><div class="paragraph"><span>&#8203;It takes time to provide the customers with details, whether it's on the phone, face-to-face, in a brochure, or in emails. In an online website, you can have a lot of information about your goods and services. When the website is up and running, it can be made open to your customers forever, saving you time.</span></div></div>
+                </div>
+            </div>
+        </div>
+</div>
+</div>
+<div style="clear:both;"></div><script type="text/javascript" class="element-script">function setupElement262729206239250549() {
+	var requireFunc = window.platformElementRequire || window.require;
+
+	// Relies on a global require, specific to platform elements
+	requireFunc([
+		'w-global',
+		'underscore',
+		'jquery',
+		'backbone',
+		'util/platform/elements/PlatformElement',
+		'util/platform/elements/PlatformElementSettings'
+	], function(
+		_W,
+		_,
+		$,
+		Backbone,
+		PlatformElement,
+		PlatformElementSettings
+	) {
+		var dependencies = null || [];
+		var platform_element_id = "915890017822203553-1.3.9";
+
+		if (typeof _W.loadedPlatformDependencies === 'undefined') {
+			_W.loadedPlatformDependencies = [];
+		}
+
+		if (typeof _W.platformElements === 'undefined') {
+			_W.platformElements = [];
+		}
+
+		if (typeof _W.platformElements[platform_element_id] === 'undefined') {
+			_W.platformElements[platform_element_id] = {};
+			_W.platformElements[platform_element_id].deferredObject = new $.Deferred();
+			_W.platformElements[platform_element_id].deferredPromise = _W.platformElements[platform_element_id].deferredObject.promise();
+		}
+
+		if(_.intersection(_W.loadedPlatformDependencies, dependencies).length !== dependencies.length){
+			_.reduce(dependencies, function(promise, nextScript){
+				_W.loadedPlatformDependencies.push(nextScript);
+				return promise.then(function(){
+					return $.getScript(nextScript);
+				});
+			}, $().promise()).then(function(){
+				_W.platformElements[platform_element_id].deferredObject.resolve();
+			});
+		}
+
+		if (dependencies.length === 0){
+			_W.platformElements[platform_element_id].deferredObject.resolve();
+		}
+
+		_W.platformElements[platform_element_id].deferredPromise.done(function(){
+			var _ElementDefinition = /**
+ * This is required for element rendering to be possible
+ * @type {PlatformElement}
+ */
+(function() {
+    var Accordion = PlatformElement.extend({
+        initialize: function() {
+            this.activeIndex = this.settings.get('active_index');
+
+            // if we have any iframes, we get an overlay
+            this.$el.children('.platform-element-overlay').hide();
+
+            this.fixBoxStyleBorders();
+            this.setupAccordion();
+        },
+
+         /**
+         * Listens to size modifications in the content areas
+         * and resizes them as needed
+         */
+        listenToContentChanges: function() {
+            this.currentContent = this.getAccordion()
+                .children('[data-item="' + this.settings.get('active_index') +  '"]')
+                .children('.accordion__content');
+            if (this.currentContent[0]) {
+                this.contentInterval = setInterval(function() {
+                    if (this.currentContent[0].scrollHeight + 20 != parseInt(this.currentContent.css('max-height'))) {
+                        this.currentContent.css('max-height', this.currentContent[0].scrollHeight + 20 + 'px');
+                    }
+                }.bind(this), 50);
+            }
+        },
+
+        /**
+         * Simplistic jQuery usage to animate and control which
+         * accordion item is currently open
+         */
+        setupAccordion: function() {
+            var view = this;
+
+            $titles = this.getTitles();
+            $events = $._data($titles[0], "events");
+
+            // if we already have set up click events, don't set more up
+            if ($events && $events.click && $events.click[0]) {
+                return;
+            }
+
+            $titles.on('touchstart click', function(e) {
+                clearInterval(view.contentInterval);
+
+                // remove "hover" state on touch events
+                if (e.type == "touchstart") {
+                    view.getAccordion().removeClass('no-touch');
+                }
+
+                e.stopPropagation();
+                e.preventDefault();
+
+                var isActive = $(this).parent().hasClass('active');
+
+                // handles closing
+                view.getTitles().each(function() {
+                    var $this = $(this);
+                    var $next = $(this).next();
+                    var eachIsActive = $(this).parent().hasClass('active');
+
+                    $next.css({
+                        'max-height': 0 + 'px'
+                    });
+
+                    if (eachIsActive) {
+                        setTimeout(function() {
+                            $this.parent().removeClass('active');
+                        }, 250);
+                    }
+                });
+
+                // handles opening
+                if (!isActive) {
+                    $(this).parent().addClass('active');
+                    var $next = $(this).next();
+                    $next.css({
+                        'max-height': $next[0].scrollHeight + 20 + 'px' // 20 to compensate for padding
+                    });
+
+                    setTimeout(function() {
+                        $(window).resize();
+                    }, 250);
+
+                    view.listenToContentChanges();
+                }
+                
+            });
+
+            this.getTitles().on('touchend', function() {
+                this.getAccordion().addClass('no-touch');
+            }.bind(this));
+        },
+
+        /**
+         * When using the 'Box' style, to avoid
+         * thick borders on the top and bottom of
+         * elements, we just shift all the elements up
+         * 'i' pixels. Preferable over doing it through css
+         * because all the items need all 4 borders on hover.
+         */
+        fixBoxStyleBorders: function() {
+            var view = this;
+
+            // only do it if the style is 'box'
+            if (this.settings.get('style') == 'box') {
+                this.getAccordion().filter('.accordion--box').children().each(function(i) {
+                    $(this).css({
+                        'top': -i
+                    });
+                });
+            }
+        },
+
+        // these functions exist so that if there's nested accordions, we don't accidentally select child accordions.
+        getAccordion: function() {
+            return this.$el.children();
+        },
+
+        getTitles: function() {
+            return this.$el.children()
+                .children()
+                .children('.accordion__title');
+        },
+
+        getContent: function() {
+            return this.$el.children()
+                .children()
+                .children('.accordion__content');
+        }
+    });
+
+    return Accordion;
+})();
+;
+
+			if (typeof _ElementDefinition == 'undefined' || typeof _ElementDefinition == 'null') {
+				var _ElementDefinition = PlatformElement.extend({});
+			}
+
+			var _Element = _ElementDefinition.extend({
+				initialize: function() {
+					// we still want to call the initialize function defined by the developer
+					// however, we don't want to call it until placeholders have been replaced
+					this.placeholderInterval = setInterval(function() {
+						// so use setInterval to check for placeholders.
+						if (this.$('.platform-element-child-placeholder').length == 0) {
+							clearInterval(this.placeholderInterval);
+							this.constructor.__super__.initialize.apply(this);
+						}
+					}.bind(this), 100);
+				}
+			});
+
+			_Element.prototype.settings = new PlatformElementSettings({"items_each":[{"items_index":0},{"items_index":1},{"items_index":2},{"items_index":3},{"items_index":4},{"items_index":5}],"items":6,"style":"simple","title_background":"#E0E0E0","content_background":"#a9e4f8","active_index":"-1"});
+			_Element.prototype.settings.page_element_id = "262729206239250549";
+
+			_Element.prototype.element_id = "ee158085-3d8a-4ec3-af99-a972c6f8e531";
+			_Element.prototype.user_id = "118144638";
+			_Element.prototype.site_id = "336708625121003755";
+			_Element.prototype.assets_path = "//marketplace.editmysite.com/uploads/b/marketplace-elements-915890017822203553-1.3.9/assets/";
+			new _Element({
+				el: '#element-ee158085-3d8a-4ec3-af99-a972c6f8e531'
+			});
+		});
+	});
+
+}
+
+if (typeof document.documentElement.appReady == 'undefined') {
+	document.documentElement.appReady = 0;
+}
+
+if (document.documentElement.appReady || (window.inEditor && window.inEditor())) {
+	setupElement262729206239250549();
+} else if (document.createEvent && document.addEventListener) {
+	document.addEventListener('appReady', setupElement262729206239250549, false);
+} else {
+	document.documentElement.attachEvent('onpropertychange', function(event){
+		if (event.propertyName == 'appReady') {
+			setupElement262729206239250549();
+		}
+	});
+}
+
+</script></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-image wsite-section-effect-reveal wsite-background-3 wsite-custom-background" style="height: 460px;background-image: url(&quot;/uploads/1/1/8/1/118144638/background-images/1635133617.jpg&quot;) ;background-repeat: no-repeat ;background-position: 50.00% 43.43% ;background-size: 100% ;background-color: transparent ;background-size: cover;" >
+		<div class="wsite-section-content">
+        <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:50px;"></div>
+
+<div class="wsite-spacer" style="height:24px;"></div>
+
+<div>
+	<form enctype="multipart/form-data" action="//www.weebly.com/weebly/apps/formSubmit.php" method="POST" id="form-695006996937680171">
+		<div id="695006996937680171-form-parent" class="wsite-form-container"
+				 style="margin-top:10px;">
+			<ul class="formlist" id="695006996937680171-form-list">
+				<h2 class="wsite-content-title">Evolution</h2>
+
+<label class="wsite-form-label wsite-form-fields-required-label"><span class="form-required">*</span> Indicates required field</label><div><div class="wsite-form-field wsite-name-field" style="margin:5px 0px 5px 0px;">
+				<label class="wsite-form-label">Name <span class="form-required">*</span></label>
+				<div style="clear:both;"></div>
+				<div class="wsite-form-input-container wsite-form-left wsite-form-input-first-name">
+					<input aria-required="true" id="input-322913097866277904" class="wsite-form-input wsite-input" placeholder="First" type="text" name="_u322913097866277904[first]" />
+					<label class="wsite-form-sublabel" for="input-322913097866277904">First</label>
+				</div>
+				<div class="wsite-form-input-container wsite-form-right wsite-form-input-last-name">
+					<input aria-required="true" id="input-322913097866277904-1" class="wsite-form-input wsite-input" placeholder="Last" type="text" name="_u322913097866277904[last]" />
+					<label class="wsite-form-sublabel" for="input-322913097866277904-1">Last</label>
+				</div>
+				<div id="instructions-322913097866277904" class="wsite-form-instructions" style="display:none;"></div>
+			</div>
+			<div style="clear:both;"></div></div>
+
+<div><div class="wsite-form-field" style="margin:5px 0px 5px 0px;">
+				<label class="wsite-form-label" for="input-453371236435209368">Email <span class="form-required">*</span></label>
+				<div class="wsite-form-input-container">
+					<input aria-required="true" id="input-453371236435209368" class="wsite-form-input wsite-input wsite-input-width-370px" type="text" name="_u453371236435209368" />
+				</div>
+				<div id="instructions-453371236435209368" class="wsite-form-instructions" style="display:none;"></div>
+			</div></div>
+
+<div><div class="wsite-form-field" style="margin:5px 0px 5px 0px;">
+				<label class="wsite-form-label" for="input-925611295967393608">Phone Number <span class="form-not-required">*</span></label>
+				<div class="wsite-form-input-container">
+					<input id="input-925611295967393608" class="wsite-form-input wsite-input wsite-input-width-370px" type="text" name="_u925611295967393608" />
+				</div>
+				<div id="instructions-925611295967393608" class="wsite-form-instructions" style="display:none;">"Optional</div>
+			</div></div>
+
+<div><div class="wsite-form-field" style="margin:5px 0px 5px 0px;">
+				<label class="wsite-form-label" for="input-569833114343082988">Comment <span class="form-required">*</span></label>
+				<div class="wsite-form-input-container">
+					<textarea aria-required="true" id="input-569833114343082988" class="wsite-form-input wsite-input wsite-input-width-370px" name="_u569833114343082988" style="height: 200px"></textarea>
+				</div>
+				<div id="instructions-569833114343082988" class="wsite-form-instructions" style="display:none;">Let us know about your business</div>
+			</div></div>
+			</ul>
+			<div class="wsite-form-field">
+	<div class="wsite-form-radio-container">
+		<span class="form-radio-container">
+			<input id="form-695006996937680171-opt-in" type="checkbox" name="opted_in" value="1" required>
+			<label for="form-695006996937680171-opt-in">
+				I agree to receiving marketing and promotional materials
+					<span class="form-required">*</span>
+			</label>
+		</span>
+	</div>
+</div>
+
+		</div>
+		<div style="display:none; visibility:hidden;">
+			<input type="hidden" name="wsite_subject" />
+		</div>
+		<div style="text-align:left; margin-top:10px; margin-bottom:10px;">
+			<input type="hidden" name="form_version" value="2" />
+			<input type="hidden" name="wsite_approved" id="wsite-approved" value="approved" />
+			<input type="hidden" name="ucfid" value="695006996937680171" />
+			<input type="hidden" name="recaptcha_token"/>
+			<input type="submit" role="button" aria-label="Submit" value="Submit" style="position:absolute;top:0;left:-9999px;width:1px;height:1px" />
+			<a class="wsite-button">
+				<span class="wsite-button-inner">Submit</span>
+			</a>
+		</div>
+	</form>
+	<div id="g-recaptcha-695006996937680171" class="recaptcha" data-size="invisible" data-recaptcha="1" data-sitekey="6Ldf5h8UAAAAAJFJhN6x2OfZqBvANPQcnPa8eb1C"></div>
+
+
+
+</div>
+
+<h2 class="wsite-content-title" style="text-align:left;"><font size="5">We are also on social media!</font></h2>
+
+<div style="text-align:left;"><div style="height:10px;overflow:hidden"></div>
+<span class="wsite-social wsite-social-default"><a class='first-child wsite-social-item wsite-social-facebook' href='https://www.facebook.com/itz.ehsan' target='_blank' alt='Facebook' aria-label='Facebook'><span class='wsite-social-item-inner'></span></a><a class='wsite-social-item wsite-social-twitter' href='http://true' target='_blank' alt='Twitter' aria-label='Twitter'><span class='wsite-social-item-inner'></span></a><a class='wsite-social-item wsite-social-instagram' href='http://true' target='_blank' alt='Instagram' aria-label='Instagram'><span class='wsite-social-item-inner'></span></a><a class='last-child wsite-social-item wsite-social-mail' href='http://true' target='_blank' alt='Mail' aria-label='Mail'><span class='wsite-social-item-inner'></span></a></span>
+<div style="height:10px;overflow:hidden"></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-11 wsite-custom-background"  >
+		<div class="wsite-section-content">
+        <div class="container">
+			<div class="wsite-section-elements">
+				
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-10 wsite-custom-background"  >
+		<div class="wsite-section-content">
+        <div class="container">
+			<div class="wsite-section-elements">
+				<div id="115800714570616255"><div><style type="text/css">
+	#element-fcccc632-d29a-4908-9866-4997f2af9096 .displaySS {
+  background: #f8a9a9;
+  height: 30px;
+  line-height: 30px !important;
+  overflow: hidden;
+  position: relative;
+}
+#element-fcccc632-d29a-4908-9866-4997f2af9096 .textSS {
+  cursor: pointer;
+  position: absolute;
+  white-space: nowrap;
+  font-weight: normal !important;
+  letter-spacing: 1px !important;
+  font-family: Arial !important;
+  font-size: 20px;
+  text-align: center;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+#element-fcccc632-d29a-4908-9866-4997f2af9096 .fixSS {
+  border: solid #e05c5c 1px;
+}
+#element-fcccc632-d29a-4908-9866-4997f2af9096 .aSS {
+  text-decoration: none;
+  font-weight: normal;
+  font-style: normal;
+  color: #2a2a2a !important;
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+#element-fcccc632-d29a-4908-9866-4997f2af9096 .aSS:hover {
+  color: #000 !important;
+}
+
+</style><div id="element-fcccc632-d29a-4908-9866-4997f2af9096" data-platform-element-id="823593994861893082-1.0.1" class="platform-element-contents">
+	<div id="ss_textAnimation">
+	<div class="fixSS">
+		<div class="displaySS">
+			<div id="textSS" class="textSS">
+				<a class="aSS" href="#">The website is still in development, so please excuse missing features. Report any bugs to Hasani.7ehsan@gmail.com</a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div style="clear:both;"></div><script type="text/javascript" class="element-script">function setupElement115800714570616255() {
+	var requireFunc = window.platformElementRequire || window.require;
+
+	// Relies on a global require, specific to platform elements
+	requireFunc([
+		'w-global',
+		'underscore',
+		'jquery',
+		'backbone',
+		'util/platform/elements/PlatformElement',
+		'util/platform/elements/PlatformElementSettings'
+	], function(
+		_W,
+		_,
+		$,
+		Backbone,
+		PlatformElement,
+		PlatformElementSettings
+	) {
+		var dependencies = null || [];
+		var platform_element_id = "823593994861893082-1.0.1";
+
+		if (typeof _W.loadedPlatformDependencies === 'undefined') {
+			_W.loadedPlatformDependencies = [];
+		}
+
+		if (typeof _W.platformElements === 'undefined') {
+			_W.platformElements = [];
+		}
+
+		if (typeof _W.platformElements[platform_element_id] === 'undefined') {
+			_W.platformElements[platform_element_id] = {};
+			_W.platformElements[platform_element_id].deferredObject = new $.Deferred();
+			_W.platformElements[platform_element_id].deferredPromise = _W.platformElements[platform_element_id].deferredObject.promise();
+		}
+
+		if(_.intersection(_W.loadedPlatformDependencies, dependencies).length !== dependencies.length){
+			_.reduce(dependencies, function(promise, nextScript){
+				_W.loadedPlatformDependencies.push(nextScript);
+				return promise.then(function(){
+					return $.getScript(nextScript);
+				});
+			}, $().promise()).then(function(){
+				_W.platformElements[platform_element_id].deferredObject.resolve();
+			});
+		}
+
+		if (dependencies.length === 0){
+			_W.platformElements[platform_element_id].deferredObject.resolve();
+		}
+
+		_W.platformElements[platform_element_id].deferredPromise.done(function(){
+			var _ElementDefinition = (function() {
+    var widgetObj =
+    {
+		 animation: function() {
+			var container = this.container;
+			var a = this.container.find('.displaySS');
+			var b = this.container.find('.textSS');
+			var url = this.container.find('.aSS');
+			var speed = this.getParam('speed');
+			var setBgr = this.getParam('setBgr');
+			var eff = this.getParam('eff');
+			var fontWeight = this.getParam('fontWeight');
+			var fontStyle = this.getParam('fontStyle');
+			var fontSize = this.getParam('fontSize');
+
+			var width = b.width();
+			var start_pos = a.width();
+			var end_pos = -width;
+	
+			b.css({'width': a.width(),'text-align':'center'});
+			if(setBgr == true){
+				a.css('background','transparent');
+			}
+			if(fontWeight == true){
+				b.find(url).css('font-weight','bold');
+			}
+			if(fontStyle == true){
+				b.find(url).css('font-style','italic');
+			}
+			
+			if(url != ''){
+				b.find(url).attr('href', this.getParam('url'));
+			}
+
+
+			function scroll() {
+				if (b.position().left <= -width) {
+					b.css('left', start_pos);
+					scroll();
+				}
+				else {
+					time = (parseInt(b.position().left, 10) - end_pos) *
+						(60000 / (start_pos - end_pos) / speed);
+					b.animate({'left': -width}, time, 'linear', function() {
+						scroll();
+					});
+				}
+			}
+
+			if(eff == 'Marquee'){
+				b.css({'width': width,'left': start_pos});
+				scroll(a, b);
+				b.clearQueue();
+			
+				b.mouseenter(function() {
+					b.stop();
+					b.clearQueue();
+				});         
+				b.mouseleave(function() {
+					scroll(a, b);
+					b.clearQueue();			
+				});
+			}
+
+			if(eff == 'Blink'){
+				var shown = true;
+				var timer = null; 
+
+				if (timer !== null) return;
+				timer = setInterval(function(){	
+					toggle();
+				}, 500); 
+
+				function toggle(){
+					if(shown) {
+						b.hide();
+						shown = false;
+					} else {
+						b.show();
+						shown = true;
+					}
+				}
+
+				b.mouseenter(function(){
+					clearInterval(timer);
+				});         
+				b.mouseleave(function(){
+					timer = setInterval(function(){	
+						toggle();
+					}, 500); 				
+				});
+			}
+
+			if(eff == 'Bulger'){
+				var shownB = true;
+				var timerB = null;
+
+				if (timerB !== null) return;
+				timerB = setInterval(function(){
+					bulger();
+				}, 1000); 
+
+				function bulger(){
+					if(shownB) {
+						b.animate({fontSize: fontSize}, 1000);
+						shownB = false;
+					} else {
+						b.animate({fontSize: 12}, 1000);
+						shownB = true;
+					}
+				}
+
+				b.mouseenter(function(){
+					clearInterval(timerB);
+				});         
+				b.mouseleave(function(){
+					timerB = setInterval(function(){	
+						bulger();
+					}, 1000); 				
+				});
+			}
+		},
+
+		 getParam: function(name){
+            return this.params.get(name);
+        }
+	}
+  
+	var TextAnimation = PlatformElement.extend({
+		initialize: function() {		
+			widgetObj.params = this.settings;
+			widgetObj.container = this.$('#ss_textAnimation');	
+			widgetObj.animation();
+		}
+	});
+
+	return TextAnimation;
+})();
+            ;
+
+			if (typeof _ElementDefinition == 'undefined' || typeof _ElementDefinition == 'null') {
+				var _ElementDefinition = PlatformElement.extend({});
+			}
+
+			var _Element = _ElementDefinition.extend({
+				initialize: function() {
+					// we still want to call the initialize function defined by the developer
+					// however, we don't want to call it until placeholders have been replaced
+					this.placeholderInterval = setInterval(function() {
+						// so use setInterval to check for placeholders.
+						if (this.$('.platform-element-child-placeholder').length == 0) {
+							clearInterval(this.placeholderInterval);
+							this.constructor.__super__.initialize.apply(this);
+						}
+					}.bind(this), 100);
+				}
+			});
+
+			_Element.prototype.settings = new PlatformElementSettings({"widgetHeight_each":[{"widgetHeight_index":0},{"widgetHeight_index":1},{"widgetHeight_index":2},{"widgetHeight_index":3},{"widgetHeight_index":4},{"widgetHeight_index":5},{"widgetHeight_index":6},{"widgetHeight_index":7},{"widgetHeight_index":8},{"widgetHeight_index":9},{"widgetHeight_index":10},{"widgetHeight_index":11},{"widgetHeight_index":12},{"widgetHeight_index":13},{"widgetHeight_index":14},{"widgetHeight_index":15},{"widgetHeight_index":16},{"widgetHeight_index":17},{"widgetHeight_index":18},{"widgetHeight_index":19},{"widgetHeight_index":20},{"widgetHeight_index":21},{"widgetHeight_index":22},{"widgetHeight_index":23},{"widgetHeight_index":24},{"widgetHeight_index":25},{"widgetHeight_index":26},{"widgetHeight_index":27},{"widgetHeight_index":28},{"widgetHeight_index":29}],"borderSize_each":[{"borderSize_index":0}],"speed_each":[{"speed_index":0},{"speed_index":1},{"speed_index":2}],"fontSize_each":[{"fontSize_index":0},{"fontSize_index":1},{"fontSize_index":2},{"fontSize_index":3},{"fontSize_index":4},{"fontSize_index":5},{"fontSize_index":6},{"fontSize_index":7},{"fontSize_index":8},{"fontSize_index":9},{"fontSize_index":10},{"fontSize_index":11},{"fontSize_index":12},{"fontSize_index":13},{"fontSize_index":14},{"fontSize_index":15},{"fontSize_index":16},{"fontSize_index":17},{"fontSize_index":18},{"fontSize_index":19}],"letterSpacing_each":[{"letterSpacing_index":0}],"txtName":"The website is still in development, so please excuse missing features. Report any bugs to Hasani.7ehsan@gmail.com","url":null,"eff":"Marquee","widgetHeight":30,"bgrColor":"#f8a9a9","setBgr":false,"borderSize":1,"borderColor":"#e05c5c","speed":3,"fontSize":20,"letterSpacing":1,"txtColor":"#2a2a2a","fontFamily":"Arial","txtColorH":"#000","fontWeight":false,"fontStyle":false});
+			_Element.prototype.settings.page_element_id = "115800714570616255";
+
+			_Element.prototype.element_id = "fcccc632-d29a-4908-9866-4997f2af9096";
+			_Element.prototype.user_id = "118144638";
+			_Element.prototype.site_id = "336708625121003755";
+			_Element.prototype.assets_path = "//marketplace.editmysite.com/uploads/b/marketplace-elements-823593994861893082-1.0.1/assets/";
+			new _Element({
+				el: '#element-fcccc632-d29a-4908-9866-4997f2af9096'
+			});
+		});
+	});
+
+}
+
+if (typeof document.documentElement.appReady == 'undefined') {
+	document.documentElement.appReady = 0;
+}
+
+if (document.documentElement.appReady || (window.inEditor && window.inEditor())) {
+	setupElement115800714570616255();
+} else if (document.createEvent && document.addEventListener) {
+	document.addEventListener('appReady', setupElement115800714570616255, false);
+} else {
+	document.documentElement.attachEvent('onpropertychange', function(event){
+		if (event.propertyName == 'appReady') {
+			setupElement115800714570616255();
+		}
+	});
+}
+
+</script></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+
+</div>
+
+    </div><!-- end main-wrap -->
+
+    <div class="footer-wrap">
+      <div class="container">
+         <div class="footer">Create a <a target="_top" href="http://www.weebly.com/">free web site</a> with <a target="_top" href="http://www.weebly.com/" title="free web site">Weebly</a></div>
+      </div><!-- end container -->
+    </div><!-- end footer-wrap -->
+  </div>
+
+  <div class="nav mobile-nav"><ul class="wsite-menu-default">
+		<li id="active" class="wsite-menu-item-wrap">
+			<a
+						href="index.html"
+				class="wsite-menu-item"
+				>
+				Home
+			</a>
+			
+		</li>
+		<li id="pg359851178887252643" class="wsite-menu-item-wrap">
+			<a
+						href="about.html"
+				class="wsite-menu-item"
+				>
+				About
+			</a>
+			
+		</li>
+		<li id="pg172844151261013386" class="wsite-menu-item-wrap">
+			<a
+						href="contact.html"
+				class="wsite-menu-item"
+				>
+				Contact
+			</a>
+			
+		</li>
+		<li id="pg762288370870940258" class="wsite-menu-item-wrap">
+			<a
+						href="blog.html"
+				class="wsite-menu-item"
+				>
+				Blog
+			</a>
+			
+		</li>
+		<li id="pg490109991218195900" class="wsite-menu-item-wrap">
+			<a
+						href="source-code.html"
+				class="wsite-menu-item"
+				>
+				Source Code
+			</a>
+			
+		</li>
+</ul>
+</div>
+
+  <script type="text/javascript" src="files/theme/plugins.js"></script>
+  <script type="text/javascript" src="files/theme/custom.js"></script>
+    <div id="customer-accounts-app"></div>
+    <script src="http://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1234"></script>
+
+		<script>
+document.addEventListener('DOMContentLoaded', function() {
+var element = document.getElementById("weebly-footer-signup-container-v3");
+element.parentNode.removeChild(element);
+}, false);
+</script>
+	</body>
+</html>
